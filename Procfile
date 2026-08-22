@@ -1,1 +1,1 @@
-worker: source venv/bin/activate && python3 run.py
+worker:python3 run.py
