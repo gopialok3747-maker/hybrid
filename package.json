@@ -1,0 +1,16 @@
+{
+  "name": "telegram-monitor",
+  "version": "1.0.0",
+  "description": "Hybrid SMS Panel Monitor",
+  "main": "node/monitor.js",
+  "scripts": {
+    "start": "node node/monitor.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
